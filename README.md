@@ -33,7 +33,7 @@ design principle: keep the conversational model lean. delegate domain work to na
 ```
 26yrs: sysadmin → devops → SRE → whatever this is
 stack: python · ollama · rtx 3080 ti · ubuntu 24.04 · fastapi · sqlite · a2a · mcp
-interests: small model behavior · prompt engineering · agent architecture · AI safety
+interests: small model behavior · token efficiency · agent architecture · automation
 ```
 
 ---
